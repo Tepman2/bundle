@@ -1,0 +1,6 @@
+This is my personal vim bundle to easily get vim up and running on any machine.
+
+Remember to install pathogen.
+
+Also add the following to the .vimrc:
+source $MYVIM/bundle/vimrc ?

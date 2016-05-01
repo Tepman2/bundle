@@ -16,3 +16,9 @@
 [submodule "vim-plugins"]
 	path = vim-plugins
 	url = https://github.com/WolfgangMehner/vim-plugins.git
+[submodule "todo-txt"]
+	path = todo.txt-vim
+	url = https://github.com/freitass/todo.txt-vim.git
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
