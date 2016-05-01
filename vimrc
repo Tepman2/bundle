@@ -28,6 +28,9 @@ set incsearch
 set hlsearch
 set magic
 
+"Enable plugins
+let g:rainbow_active = 1
+
 " Window movements
 map <C-j> <C-W>j
 map <C-k> <C-W>k
