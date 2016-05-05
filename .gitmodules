@@ -22,3 +22,9 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
+[submodule "vim-projectionist"]
+	path = vim-projectionist
+	url = https://github.com/tpope/vim-projectionist.git
+[submodule "Vundle.vim"]
+	path = /home/seth/.vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
